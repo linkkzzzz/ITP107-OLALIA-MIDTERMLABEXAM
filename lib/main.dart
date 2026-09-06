@@ -1,21 +1,3 @@
-// =============================================================
-// ITP107 Laboratory Examination - Sign-Up Screen
-// Nature / Green Theme
-// =============================================================
-// Requirements covered:
-// 1. Working Flutter app displaying a sign-up screen design
-// 2. Uses 7+ different basic widgets:
-//    Text, Image (Icon-based avatar + decorative leaf art),
-//    ListView, Container, Card, ElevatedButton, GestureDetector,
-//    Icon, Column, Row, TextField, Stack, Positioned
-// 3. GestureDetector on the "Click Me" button handles:
-//    - Single Tap  -> prints "Hello World!"
-//    - Double Tap  -> prints ITP107 course code + description
-//    - Long Press  -> prints full name
-// 4. Debug output uses debugPrint() so it is visible in the Debug Console
-// 5. Consistent green nature-inspired color scheme, typography, and layout
-// =============================================================
-
 import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart'; // for debugPrint
